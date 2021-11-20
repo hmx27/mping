@@ -126,7 +126,7 @@ function moretrace(){
 	echo '---------------------------------------------------------------------------'
 }
 
-mping 10
+mping 20
 echo ''
 moretrace
 echo ''
