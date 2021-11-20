@@ -123,5 +123,5 @@ mping 100
 echo ''
 moretrace
 echo ''
-echo '此结果由mping生成:https://www.xiaoz.me/archives/13044'
+echo '原作者帖子:https://www.xiaoz.me/archives/13044'
 echo ''
