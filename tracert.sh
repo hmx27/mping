@@ -13,5 +13,5 @@ chmod -R +x /root/besttrace/besttrace
 rm tracert.sh
 
 echo ''
-echo '请再次运行 bash mping.sh'
+echo '请再次运行 bash mping-all.sh'
 echo ''
